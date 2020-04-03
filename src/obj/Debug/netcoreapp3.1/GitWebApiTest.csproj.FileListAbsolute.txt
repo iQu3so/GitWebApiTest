@@ -1,0 +1,13 @@
+C:\Users\Devin\Desktop\dotnet stuff\GitWebApiTest\src\bin\Debug\netcoreapp3.1\GitWebApiTest.exe
+C:\Users\Devin\Desktop\dotnet stuff\GitWebApiTest\src\bin\Debug\netcoreapp3.1\GitWebApiTest.deps.json
+C:\Users\Devin\Desktop\dotnet stuff\GitWebApiTest\src\bin\Debug\netcoreapp3.1\GitWebApiTest.runtimeconfig.json
+C:\Users\Devin\Desktop\dotnet stuff\GitWebApiTest\src\bin\Debug\netcoreapp3.1\GitWebApiTest.runtimeconfig.dev.json
+C:\Users\Devin\Desktop\dotnet stuff\GitWebApiTest\src\bin\Debug\netcoreapp3.1\GitWebApiTest.dll
+C:\Users\Devin\Desktop\dotnet stuff\GitWebApiTest\src\bin\Debug\netcoreapp3.1\GitWebApiTest.pdb
+C:\Users\Devin\Desktop\dotnet stuff\GitWebApiTest\src\obj\Debug\netcoreapp3.1\GitWebApiTest.csprojAssemblyReference.cache
+C:\Users\Devin\Desktop\dotnet stuff\GitWebApiTest\src\obj\Debug\netcoreapp3.1\GitWebApiTest.csproj.CoreCompileInputs.cache
+C:\Users\Devin\Desktop\dotnet stuff\GitWebApiTest\src\obj\Debug\netcoreapp3.1\GitWebApiTest.AssemblyInfoInputs.cache
+C:\Users\Devin\Desktop\dotnet stuff\GitWebApiTest\src\obj\Debug\netcoreapp3.1\GitWebApiTest.AssemblyInfo.cs
+C:\Users\Devin\Desktop\dotnet stuff\GitWebApiTest\src\obj\Debug\netcoreapp3.1\GitWebApiTest.dll
+C:\Users\Devin\Desktop\dotnet stuff\GitWebApiTest\src\obj\Debug\netcoreapp3.1\GitWebApiTest.pdb
+C:\Users\Devin\Desktop\dotnet stuff\GitWebApiTest\src\obj\Debug\netcoreapp3.1\GitWebApiTest.genruntimeconfig.cache
