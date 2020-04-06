@@ -38,7 +38,7 @@
           "dependencies": {
             "System.Net.Http": {
               "target": "Package",
-              "version": "[*, )"
+              "version": "[4.3.4, )"
             },
             "System.Text.Json": {
               "target": "Package",

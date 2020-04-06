@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TIKUwae3EwpGqfw8wai4rrVzsaME6chD8hJZCmDukqlJeX3IWZ3UcBo0wgiGB4X7qQeHmOsWmFsQfEXK4rVuIA==",
+  "dgSpecHash": "T9NJOurdF0et0Zp5H/IyKIsDEzdvh5koysFKxC3zO6yBk17H1zp/M+MdYB1KYh14Oks9iJpDtvZhgLT4gFBIEQ==",
   "success": true,
   "projectFilePath": "/home/devinduplantis/dotnet_stuff/GitWebApiTest/src/GitWebApiTest.csproj",
   "expectedPackageFiles": [
