@@ -1,13 +1,28 @@
-C:\Users\Devin\Desktop\dotnet stuff\GitWebApiTest\src\bin\Debug\netcoreapp3.1\GitWebApiTest.exe
-C:\Users\Devin\Desktop\dotnet stuff\GitWebApiTest\src\bin\Debug\netcoreapp3.1\GitWebApiTest.deps.json
-C:\Users\Devin\Desktop\dotnet stuff\GitWebApiTest\src\bin\Debug\netcoreapp3.1\GitWebApiTest.runtimeconfig.json
-C:\Users\Devin\Desktop\dotnet stuff\GitWebApiTest\src\bin\Debug\netcoreapp3.1\GitWebApiTest.runtimeconfig.dev.json
-C:\Users\Devin\Desktop\dotnet stuff\GitWebApiTest\src\bin\Debug\netcoreapp3.1\GitWebApiTest.dll
-C:\Users\Devin\Desktop\dotnet stuff\GitWebApiTest\src\bin\Debug\netcoreapp3.1\GitWebApiTest.pdb
-C:\Users\Devin\Desktop\dotnet stuff\GitWebApiTest\src\obj\Debug\netcoreapp3.1\GitWebApiTest.csprojAssemblyReference.cache
-C:\Users\Devin\Desktop\dotnet stuff\GitWebApiTest\src\obj\Debug\netcoreapp3.1\GitWebApiTest.csproj.CoreCompileInputs.cache
-C:\Users\Devin\Desktop\dotnet stuff\GitWebApiTest\src\obj\Debug\netcoreapp3.1\GitWebApiTest.AssemblyInfoInputs.cache
-C:\Users\Devin\Desktop\dotnet stuff\GitWebApiTest\src\obj\Debug\netcoreapp3.1\GitWebApiTest.AssemblyInfo.cs
-C:\Users\Devin\Desktop\dotnet stuff\GitWebApiTest\src\obj\Debug\netcoreapp3.1\GitWebApiTest.dll
-C:\Users\Devin\Desktop\dotnet stuff\GitWebApiTest\src\obj\Debug\netcoreapp3.1\GitWebApiTest.pdb
-C:\Users\Devin\Desktop\dotnet stuff\GitWebApiTest\src\obj\Debug\netcoreapp3.1\GitWebApiTest.genruntimeconfig.cache
+C:/Users/Devin/Desktop/dotnet stuff/GitWebApiTest/src/bin/Debug/netcoreapp3.1/GitWebApiTest.exe
+C:/Users/Devin/Desktop/dotnet stuff/GitWebApiTest/src/bin/Debug/netcoreapp3.1/GitWebApiTest.deps.json
+C:/Users/Devin/Desktop/dotnet stuff/GitWebApiTest/src/bin/Debug/netcoreapp3.1/GitWebApiTest.runtimeconfig.json
+C:/Users/Devin/Desktop/dotnet stuff/GitWebApiTest/src/bin/Debug/netcoreapp3.1/GitWebApiTest.runtimeconfig.dev.json
+C:/Users/Devin/Desktop/dotnet stuff/GitWebApiTest/src/bin/Debug/netcoreapp3.1/GitWebApiTest.dll
+C:/Users/Devin/Desktop/dotnet stuff/GitWebApiTest/src/bin/Debug/netcoreapp3.1/GitWebApiTest.pdb
+C:/Users/Devin/Desktop/dotnet stuff/GitWebApiTest/src/obj/Debug/netcoreapp3.1/GitWebApiTest.csprojAssemblyReference.cache
+C:/Users/Devin/Desktop/dotnet stuff/GitWebApiTest/src/obj/Debug/netcoreapp3.1/GitWebApiTest.csproj.CoreCompileInputs.cache
+C:/Users/Devin/Desktop/dotnet stuff/GitWebApiTest/src/obj/Debug/netcoreapp3.1/GitWebApiTest.AssemblyInfoInputs.cache
+C:/Users/Devin/Desktop/dotnet stuff/GitWebApiTest/src/obj/Debug/netcoreapp3.1/GitWebApiTest.AssemblyInfo.cs
+C:/Users/Devin/Desktop/dotnet stuff/GitWebApiTest/src/obj/Debug/netcoreapp3.1/GitWebApiTest.dll
+C:/Users/Devin/Desktop/dotnet stuff/GitWebApiTest/src/obj/Debug/netcoreapp3.1/GitWebApiTest.pdb
+C:/Users/Devin/Desktop/dotnet stuff/GitWebApiTest/src/obj/Debug/netcoreapp3.1/GitWebApiTest.genruntimeconfig.cache
+/home/devinduplantis/dotnet_stuff/GitWebApiTest/src/bin/Debug/netcoreapp3.1/GitWebApiTest
+/home/devinduplantis/dotnet_stuff/GitWebApiTest/src/bin/Debug/netcoreapp3.1/GitWebApiTest.deps.json
+/home/devinduplantis/dotnet_stuff/GitWebApiTest/src/bin/Debug/netcoreapp3.1/GitWebApiTest.runtimeconfig.json
+/home/devinduplantis/dotnet_stuff/GitWebApiTest/src/bin/Debug/netcoreapp3.1/GitWebApiTest.runtimeconfig.dev.json
+/home/devinduplantis/dotnet_stuff/GitWebApiTest/src/bin/Debug/netcoreapp3.1/GitWebApiTest.dll
+/home/devinduplantis/dotnet_stuff/GitWebApiTest/src/bin/Debug/netcoreapp3.1/GitWebApiTest.pdb
+/home/devinduplantis/dotnet_stuff/GitWebApiTest/src/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/home/devinduplantis/dotnet_stuff/GitWebApiTest/src/obj/Debug/netcoreapp3.1/GitWebApiTest.csprojAssemblyReference.cache
+/home/devinduplantis/dotnet_stuff/GitWebApiTest/src/obj/Debug/netcoreapp3.1/GitWebApiTest.csproj.CoreCompileInputs.cache
+/home/devinduplantis/dotnet_stuff/GitWebApiTest/src/obj/Debug/netcoreapp3.1/GitWebApiTest.AssemblyInfoInputs.cache
+/home/devinduplantis/dotnet_stuff/GitWebApiTest/src/obj/Debug/netcoreapp3.1/GitWebApiTest.AssemblyInfo.cs
+/home/devinduplantis/dotnet_stuff/GitWebApiTest/src/obj/Debug/netcoreapp3.1/GitWebApiTest.csproj.CopyComplete
+/home/devinduplantis/dotnet_stuff/GitWebApiTest/src/obj/Debug/netcoreapp3.1/GitWebApiTest.dll
+/home/devinduplantis/dotnet_stuff/GitWebApiTest/src/obj/Debug/netcoreapp3.1/GitWebApiTest.pdb
+/home/devinduplantis/dotnet_stuff/GitWebApiTest/src/obj/Debug/netcoreapp3.1/GitWebApiTest.genruntimeconfig.cache
