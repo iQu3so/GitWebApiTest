@@ -1,3 +1,2 @@
 .vscode
-src/bin/GitWebApiTest.runtimeconfig.dev.json
-src/bin/GitWebApiTest.runtimeconfig.json
+src/bin
